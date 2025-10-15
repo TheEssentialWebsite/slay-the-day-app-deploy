@@ -1,7 +1,7 @@
 {
   "name": "Slay The Day",
   "short_name": "Slay The Day",
-  "description": "Fun · Play · Let Go - Moments for everyday joy",
+  "description": "Fun · Play · Let Go - Everyday moments of lightness",
   "start_url": "/app",
   "display": "standalone",
   "background_color": "#faf9fb",
